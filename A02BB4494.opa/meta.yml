@@ -1,0 +1,16 @@
+id: A02BB4494
+title: 'Aśvaghoṣa: Saundarananda'
+type: translation
+pechas:
+- I7BC884A8
+- IF5C6B639
+source_metadata:
+  languages:
+  - en
+  - sa
+  datatype: PlainText
+  created_at: 2023-02-08 16:12:55.479102
+  last_modified_at: 2023-02-08 16:12:55.479116
+alignment_to_base:
+  I7BC884A8/E0BE: '2969'
+  IF5C6B639/37CC: '2969'
